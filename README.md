@@ -89,7 +89,7 @@ Built a conversational chatbot using OpenAI API and Streamlit.
 ---
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/tomás-ruano-300119287
+- LinkedIn: www.linkedin.com/in/tomas-ruano-ai
 - Email: truanoalzarria@gmail.com
 
 ⭐ Check my repositories to follow my learning journey
