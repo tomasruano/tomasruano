@@ -1,95 +1,83 @@
 # Hi, I'm Tomás Ruano 👋
 
-🎓 AI & Data Science student at UADE (2026–2030) from Argentina  
-🤖 Aspiring ML / AI Engineer focused on building real-world AI products  
+🎓 AI & Data Science student at UADE (2026–Present) from Argentina  
+🤖 Aspiring AI & Data Engineer focused on building robust, privacy-first AI products  
 🇬🇧 Cambridge C1 Advanced English  
 💼 Actively looking for my first tech opportunity  
 
 ---
 
 ## 🚀 About Me
-I'm a full-time Artificial Intelligence & Data Science student who loves learning by building real projects.
+I'm an Artificial Intelligence & Data Science student who loves learning by building real, production-ready projects.
 
-I focus on turning data and AI into useful tools that solve real problems, especially in automation and business.
+I focus on bridging the gap between advanced machine learning concepts and clean, functional software—specializing in local RAG architectures, full-stack development, and data analytics.
 
-Every week I dedicate time to improving my skills and expanding my portfolio with hands-on projects.
+Every week I dedicate time to improving my skills and expanding my portfolio with hands-on systems.
 
 ---
 
-## 🧠 Currently Learning
-- Machine Learning fundamentals
-- Building AI apps using APIs (LLMs)
-- Data analysis & business insights
-- Deploying apps with Streamlit
-- Git & GitHub workflows
+## 🧠 Currently Learning & Using
+- **AI & RAG:** Local LLMs (Ollama, Llama 3.2), FAISS, Vector Search, CrossEncoders, Prompt Engineering
+- **Backend & Frontend:** FastAPI, React, Vite, Python Async
+- **Data Analysis:** Pandas, NumPy, Scikit-Learn, Exploratory Data Analysis (EDA)
+- **Workflows:** Git, GitHub, RESTful APIs
 
 ---
 
 ## 🛠 Tech Stack
-**Languages & Tools**
-- Python
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Streamlit
-- OpenAI API
+**Languages & Frameworks**
+- Python, R, SQL
+- FastAPI, React, Vite, Streamlit
 
-**Data & Machine Learning**
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-- Exploratory Data Analysis (EDA)
+**AI, Data & Tools**
+- FAISS, Ollama, Llama 3.2, Hugging Face (CrossEncoders)
+- Pandas, NumPy, Matplotlib, Seaborn
+- Git, GitHub, VS Code
 
 ---
 
 ## 📂 Featured Projects
 
-### 🛒 E-commerce Sales Analysis
-**Type:** Data Analytics / Business Intelligence  
+### 🧠 LLM Study & Career Copilot
+**Type:** Full-Stack AI Application / Local RAG Pipeline  
+*A 100% privacy-first, full-stack Retrieval-Augmented Generation copilot designed to process multiple local PDFs and deliver real-time streaming answers.*
 
-Analyzed a public e-commerce dataset using Python and Jupyter Notebook.
-
-**What this project shows**
-- Data cleaning, merging and transformation with Pandas
-- Exploratory Data Analysis & visualizations
-- Business KPIs:
-  - Total Revenue
-  - Total Orders
-  - Total Customers
-  - Average Order Value (AOV)
-- Insights & recommendations:
-  - Revenue follows Pareto distribution (few products generate most income)
-  - High-value customers drive large share of revenue
-  - Monthly seasonality detected
-  - Revenue concentrated in specific cities
-  - Business recommendations for marketing, stock planning and retention
+**Key Technical Highlights:**
+- **Local AI Pipeline:** Zero cloud API dependencies using Llama 3.2 via Ollama for complete data privacy and zero inference costs.
+- **Advanced Retrieval & Reranking:** Engineered an asynchronous FastAPI backend integrating FAISS vector search (top 20 candidates) with a CrossEncoder model to precisely rerank down to the top 5 most relevant chunks.
+- **Modern Full-Stack UI:** Built a responsive React and Vite frontend supporting dynamic contextual modes (Study, Exam, and Career optimization) paired with exact document page citations.
 
 ---
 
-### 🤖 AI Chatbot App (Streamlit + LLM)
-**Type:** AI Application / AI Engineering  
+### 🛒 E-commerce Sales Analysis
+**Type:** Data Analytics & Business Intelligence  
 
-Built a conversational chatbot using OpenAI API and Streamlit.
+*Conducted an end-to-end sales data analysis project using Python and Pandas.*
 
-**What this project shows**
-- LLM integration in a Python application
-- Interactive Streamlit interface
-- Input → response conversational flow
-- Deploy-ready architecture (Streamlit Cloud)
-- Foundation for future AI product development
+**What this project shows:**
+- Data cleaning, merging, and transformation with Pandas
+- Exploratory Data Analysis (EDA) to uncover patterns and market behavior
+- Business KPIs and metric evaluation: Total Revenue, Total Orders, Average Order Value (AOV)
+- Actionable business insights and data visualizations to support strategic decision-making
+
+---
+
+### 🤖 AI Chatbot Application
+**Type:** AI Prototyping  
+
+*Developed an interactive AI chatbot using Python, Streamlit, and Large Language Models as part of foundational AI engineering training.*
 
 ---
 
 ## 🎯 Goals for 2026
-- Build a strong portfolio of deployable AI projects  
-- Land my first tech role in Data / AI / ML  
-- Keep learning and contributing to real-world AI solutions  
+- Showcase production-grade, full-stack AI applications  
+- Land my first tech role in Data / AI / Software Engineering  
+- Keep building scalable solutions that solve real-world problems  
 
 ---
 
 ## 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/tomas-ruano-ai
+- LinkedIn: [linkedin.com/in/tomas-ruano-ai](https://www.linkedin.com/in/tomas-ruano-ai)
 - Email: truanoalzarria@gmail.com
 
-⭐ Check my repositories to follow my learning journey
+⭐ Check my repositories to follow my learning journey!
