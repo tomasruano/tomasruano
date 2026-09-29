@@ -31,11 +31,6 @@ End-to-end analysis of e-commerce sales data focused on data cleaning, transform
 
 **Python · Pandas · NumPy · Matplotlib · Seaborn**
 
-### ⚙️ Sales & Inventory Analytics
-
-Business analytics and process automation project combining sales, inventory and product data to generate operational KPIs and automate recurring analysis.
-
-**Python · SQL · Excel · Power Query · Power BI**
 
 ## 🎓 Education
 
