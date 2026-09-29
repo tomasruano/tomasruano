@@ -1,83 +1,47 @@
 # Hi, I'm Tomás Ruano 👋
 
-🎓 AI & Data Science student at UADE (2026–Present) from Argentina  
-🤖 Aspiring AI & Data Engineer focused on building robust, privacy-first AI products  
-🇬🇧 Cambridge C1 Advanced English  
-💼 Actively looking for my first tech opportunity  
+🎓 Data Science & Artificial Intelligence student at UADE
+📍 Buenos Aires, Argentina
+💼 Looking for my first opportunity in Data, AI or Automation
+🇬🇧 Cambridge C1 Advanced English
 
----
+I enjoy building practical solutions with data and AI, from business analytics and automation to AI-powered applications.
 
-## 🚀 About Me
-I'm an Artificial Intelligence & Data Science student who loves learning by building real, production-ready projects.
+## 🛠️ Skills
 
-I focus on bridging the gap between advanced machine learning concepts and clean, functional software—specializing in local RAG architectures, full-stack development, and data analytics.
+**Languages:** Python · SQL · R
 
-Every week I dedicate time to improving my skills and expanding my portfolio with hands-on systems.
+**Data & Analytics:** Pandas · NumPy · Matplotlib · Seaborn · Excel
 
----
+**AI & Development:** FastAPI · React · Streamlit · LLMs · RAG
 
-## 🧠 Currently Learning & Using
-- **AI & RAG:** Local LLMs (Ollama, Llama 3.2), FAISS, Vector Search, CrossEncoders, Prompt Engineering
-- **Backend & Frontend:** FastAPI, React, Vite, Python Async
-- **Data Analysis:** Pandas, NumPy, Scikit-Learn, Exploratory Data Analysis (EDA)
-- **Workflows:** Git, GitHub, RESTful APIs
+**Tools:** Git · GitHub
 
----
+## 🚀 Featured Projects
 
-## 🛠 Tech Stack
-**Languages & Frameworks**
-- Python, R, SQL
-- FastAPI, React, Vite, Streamlit
+### 🤖 AI Study & Career Copilot
 
-**AI, Data & Tools**
-- FAISS, Ollama, Llama 3.2, Hugging Face (CrossEncoders)
-- Pandas, NumPy, Matplotlib, Seaborn
-- Git, GitHub, VS Code
+Full-stack AI application for interacting with uploaded documents through a local Retrieval-Augmented Generation pipeline.
 
----
+**Python · FastAPI · React · FAISS · Ollama · Llama 3.2**
 
-## 📂 Featured Projects
+### 📊 E-commerce Sales Analysis
 
-### 🧠 LLM Study & Career Copilot
-**Type:** Full-Stack AI Application / Local RAG Pipeline  
-*A 100% privacy-first, full-stack Retrieval-Augmented Generation copilot designed to process multiple local PDFs and deliver real-time streaming answers.*
+End-to-end analysis of e-commerce sales data focused on data cleaning, transformation, exploratory analysis, business KPIs and actionable insights.
 
-**Key Technical Highlights:**
-- **Local AI Pipeline:** Zero cloud API dependencies using Llama 3.2 via Ollama for complete data privacy and zero inference costs.
-- **Advanced Retrieval & Reranking:** Engineered an asynchronous FastAPI backend integrating FAISS vector search (top 20 candidates) with a CrossEncoder model to precisely rerank down to the top 5 most relevant chunks.
-- **Modern Full-Stack UI:** Built a responsive React and Vite frontend supporting dynamic contextual modes (Study, Exam, and Career optimization) paired with exact document page citations.
+**Python · Pandas · NumPy · Matplotlib · Seaborn**
 
----
+### ⚙️ Sales & Inventory Analytics
 
-### 🛒 E-commerce Sales Analysis
-**Type:** Data Analytics & Business Intelligence  
+Business analytics and process automation project combining sales, inventory and product data to generate operational KPIs and automate recurring analysis.
 
-*Conducted an end-to-end sales data analysis project using Python and Pandas.*
+**Python · SQL · Excel · Power Query · Power BI**
 
-**What this project shows:**
-- Data cleaning, merging, and transformation with Pandas
-- Exploratory Data Analysis (EDA) to uncover patterns and market behavior
-- Business KPIs and metric evaluation: Total Revenue, Total Orders, Average Order Value (AOV)
-- Actionable business insights and data visualizations to support strategic decision-making
+## 🎓 Education
 
----
+**B.Sc. in Data Science & Artificial Intelligence — UADE**
+2026–Present
 
-### 🤖 AI Chatbot Application
-**Type:** AI Prototyping  
+## 📫 Connect
 
-*Developed an interactive AI chatbot using Python, Streamlit, and Large Language Models as part of foundational AI engineering training.*
-
----
-
-## 🎯 Goals for 2026
-- Showcase production-grade, full-stack AI applications  
-- Land my first tech role in Data / AI / Software Engineering  
-- Keep building scalable solutions that solve real-world problems  
-
----
-
-## 📫 Connect with me
-- LinkedIn: [linkedin.com/in/tomas-ruano-ai](https://www.linkedin.com/in/tomas-ruano-ai)
-- Email: truanoalzarria@gmail.com
-
-⭐ Check my repositories to follow my learning journey!
+[LinkedIn](https://www.linkedin.com/in/tomas-ruano-ai) · [GitHub](https://github.com/tomasruano)
