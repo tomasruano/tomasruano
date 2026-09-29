@@ -9,13 +9,17 @@ I enjoy building practical solutions with data and AI, from business analytics a
 
 ## 🛠️ Skills
 
-**Languages:** Python · SQL · R
+**Languages**
+Python · SQL · R
 
-**Data & Analytics:** Pandas · NumPy · Matplotlib · Seaborn · Excel
+**Data & Analytics**
+Pandas · NumPy · Matplotlib · Seaborn · Excel
 
-**AI & Development:** FastAPI · React · Streamlit · LLMs · RAG
+**AI & Development**
+FastAPI · React · Streamlit · LLMs · RAG
 
-**Tools:** Git · GitHub
+**Tools**
+Git · GitHub
 
 ## 🚀 Featured Projects
 
@@ -27,10 +31,9 @@ Full-stack AI application for interacting with uploaded documents through a loca
 
 ### 📊 E-commerce Sales Analysis
 
-End-to-end analysis of e-commerce sales data focused on data cleaning, transformation, exploratory analysis, business KPIs and actionable insights.
+End-to-end analysis of e-commerce sales data focused on data cleaning, transformation, exploratory analysis, business KPIs and data visualization.
 
 **Python · Pandas · NumPy · Matplotlib · Seaborn**
-
 
 ## 🎓 Education
 
